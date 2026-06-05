@@ -82,5 +82,5 @@
 ###
 [![](https://visitcount.itsvg.in/api?id=thakurharshhh&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Himanshu-Singh11/Badges/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="https://raw.githubusercontent.com/Himanshu-Singh11/Badges/snake-output/snake.svg" alt="snake gif">
 </div>
