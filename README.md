@@ -76,10 +76,13 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/himanshusingh-dehradun" target="blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
- 
-###
-<img src="https://raw.githubusercontent.com/himanshu-singh11/himanshu-singh11/snake-output/snake.svg" alt="Snake animation" />
+  <a href="https://linkedin.com/in/himanshusingh-dehradun" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/himanshu-singh11/himanshu-singh11/snake-output/snake.svg" alt="Snake animation" />
+</div>
