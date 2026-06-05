@@ -81,7 +81,6 @@
  
 ###
 [![](https://visitcount.itsvg.in/api?id=thakurharshhh&icon=0&color=0)](https://visitcount.itsvg.in)
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/thakurharshhh/thakurharshhh/blob/output/github-snake-dark.svg" alt="snake gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Himanshu-Singh11/Badges/output/github-contribution-grid-snake.svg" alt="snake gif">
 </div>
-
