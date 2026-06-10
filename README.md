@@ -15,17 +15,23 @@
   </a>
 </p>
 
-🌱 I’m currently learning **FrameWorks of Python**
+<div align="left">
+  <h2>
+    <picture>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px">
+    </picture>
+    About Me
+  </h2>
+</div>
 
-👯 I’m looking to collaborate on **AI/ML Projects**
+<img align="right" alt="Coding GIF" height="220px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-🤝 I’m looking for help with **Deep Learning**
-
-💬 Ask me about **AI/ML**
-
-📫 How to reach me **himanshujd.0011@gmail.com**
-
-⚡ Fun fact **I think I am Funny**
+<p align="left"> I’m currently learning <b>Python frameworks</b></p>
+<p align="left"> I’m looking to collaborate on <b>AI/ML project</b>s</p>
+<p align="left"> I’m currently exploring <b>Deep Learning</b></p>
+<p align="left"> Ask me about <b>AI/ML, Python, and Machine Learning</b></p>
+<p align="left"> How to reach me: <a href="mailto:himanshujd.0011@gmail.com"> <b>himanshujd.0011@gmail.com</b> </a> </p>
+<p align="left"> Fun fact: <b>I enjoy building AI projects and learning new technologies</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
