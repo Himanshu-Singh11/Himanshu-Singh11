@@ -1,7 +1,6 @@
 <div align="center" width="50">
   
-![Himanshu Singh](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
-
+![Himanshu Singh](https://github.com/Himanshu-Singh11/Himanshu-Singh11/blob/main/images/git.png)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=07F7EC&background=020432&center=true&vCenter=true&width=480&lines=Hey,What's+up?+I+Am+Himanshu+Singh+;A+passionate+AI/ML+Programmer)](https://git.io/typing-svg)<br>
