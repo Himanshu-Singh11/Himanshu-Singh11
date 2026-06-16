@@ -3,7 +3,8 @@
 ![Himanshu Singh](https://github.com/Himanshu-Singh11/Himanshu-Singh11/blob/main/images/git.png)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=07F7EC&background=020432&center=true&vCenter=true&width=480&lines=Hey,What's+up?+I+Am+Himanshu+Singh+;A+passionate+AI/ML+Programmer)](https://git.io/typing-svg)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=07F7EC&background=020432&center=true&vCenter=true&width=480&lines=Hey%2C+What%27s+up%3F+I+am+Himanshu+Singh;A+passionate+AI%2FML+Programmer)
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-singh11&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-singh11" /> </p>
 
