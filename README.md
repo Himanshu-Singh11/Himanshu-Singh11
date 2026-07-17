@@ -42,12 +42,10 @@
 ###
 
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N25kbmdmaWQ4bTM4cDg3bzM4ZTJxYWR0ZHlvdXJ2emxnb2J4OXg0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif"  />
-</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -80,12 +78,6 @@
 </p>
 
 ###
-
-<div align="center">
-  <a href="https://linkedin.com/in/himanshusingh-dehradun" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-</div>
 
 <br>
 
