@@ -29,7 +29,7 @@
 <p align="left"> I’m currently learning <b>Python frameworks</b></p>
 <p align="left"> I’m looking to collaborate on <b>AI/ML project</b>s</p>
 <p align="left"> I’m currently exploring <b>Deep Learning</b></p>
-<p align="left"> Ask me about <b>AI/ML, Python, and Machine Learning</b></p>
+<p align="left"> Ask me about <b>AI/ML</b></p>
 <p align="left"> How to reach me: <a href="mailto:himanshujd.0011@gmail.com"> <b>himanshujd.0011@gmail.com</b> </a> </p>
 <p align="left"> Fun fact: <b>I enjoy building AI projects and learning new technologies</b></p>
 
